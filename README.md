@@ -7,5 +7,6 @@ Team Members: STUDENTS_NETIDS
  - rk40
  - sa125
  - dvsingh2
+ - czlee3
 
 Project Manager: smriti2
